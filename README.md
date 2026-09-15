@@ -32,8 +32,11 @@ x = 16sin³(t)
 y = 13cos(t) - 5cos(2t) - 2cos(3t) - cos(4t)
 
 ```
+## 📸 Output
 
-## 🎥 Demo
+![Mathematical Heart](Heart_image.png)
+
+ ## 🎥 Demo
 
 ![Heart Animation](heart_demo.gif)
 
