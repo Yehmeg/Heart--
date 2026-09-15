@@ -40,4 +40,4 @@ y = 13cos(t) - 5cos(2t) - 2cos(3t) - cos(4t)
 
 ![Heart Animation](heart_demo.gif)
 
-[▶️ Watch Full Demo](./demo/heart_demo.mp4)
+[▶️ Watch Full Demo](Heart_Demo.mp4)
